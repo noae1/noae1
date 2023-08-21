@@ -2,6 +2,7 @@
 
 I'm currently a 3rd-year Computer Science student at Tel Aviv University.
 
+- 📫 How to reach me: erezereznoa@gmail.com
 
 <!--
 **noae1/noae1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
