@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Noa Erez
 
-### I'm currently a 3rd-year Computer Science student at Tel Aviv University.
-
+### I am a software engineer with a BSc in Computer Science from Tel Aviv University.
 ### - 📫 How to reach me: erezereznoa@gmail.com
 
 <!--
